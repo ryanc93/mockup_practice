@@ -1,0 +1,210 @@
+html {
+font-size:16pt;
+font-family: "Arial", Verdana, sans-serif;
+color: #000000;
+}
+
+body {
+border: 32px solid #C0C0BE;
+}
+
+header {
+background-color: #000000;
+
+}
+nav {
+background-color: #C0C0BE;
+}
+
+.website-name {
+color: white;
+font-weight:normal;
+font-size: 4rem;
+padding-left:50px;
+}
+
+.website-moto {
+color: #808080;
+font-size: 1.8rem;
+font-weight:normal;
+padding-left:50px;
+position:relative;top:-38px
+}
+
+.navigation-links-list {
+list-style-type: none;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+padding: 1rem;
+margin: 1rem;
+}
+
+.nav-links {
+color: #800080;
+font-size: 1.5rem;
+}
+
+.main {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+padding-right:50px;
+}
+
+article {
+width: 60%;
+margin: 1rem;
+}
+
+.story-title {
+font-size: 2.5rem;
+font-weight:normal;
+padding-left:50px;
+}
+
+.story-blurb {
+font-size: 1.6rem;
+font-weight:normal;
+padding-left:50px;
+position:relative;top:-25px
+}
+
+.testimonial-title {
+font-size: 2.5rem;
+font-weight:normal;
+padding-left:50px;
+}
+
+.testimonial-blurb {
+font-size: 1.6rem;
+font-weight:normal;
+padding-left:50px;
+position:relative;top:-25px
+}
+
+aside {
+padding: .5rem;
+margin: .5rem;
+}
+
+.sidebox-with-cat-features {
+border: 1px solid #000000;
+margin: auto;
+line-height: normal;
+}
+
+.cat-of-the-week {
+  font-size: 1.5rem;
+  font-weight:normal;
+  text-align: center;
+}
+
+.cat-image-one {
+  display: block;
+  margin: 0 auto;
+  position:relative;top:-30px
+}
+
+.cat-one-name {
+  font-size: 1.3rem;
+  font-weight:normal;
+  text-align: center;
+  position:relative;top:-50px
+}
+
+.cat-one-details {
+  font-size: 1rem;
+  position:relative;top:-70px
+}
+
+.cat-one-details-2 {
+  font-size: 1rem;
+  position:relative;top:-90px
+}
+
+.fan-favorite {
+  font-size: 1.5rem;
+  font-weight:normal;
+  text-align: center;
+  position:relative;top:-90px
+}
+
+.cat-image-two {
+  display: block;
+  margin: 0 auto;
+  position:relative;top:-120px
+}
+
+.cat-two-name{
+  font-size: 1.3rem;
+  text-align: center;
+  position:relative;top:-140px
+}
+
+.top-link {
+color: red;
+font-size: 1.4rem;
+display: flex;
+justify-content: flex-end;
+padding: 1rem;
+}
+
+.action-link, .action-link-2 {
+  color: red;
+  font-size: .8rem;
+}
+
+.footer {
+  background-color: #000000;
+}
+
+.email {
+  color:##FF0000;
+  padding-top:4rem;
+  padding-left:50px;
+  font-size: 1.2rem;
+}
+
+.contact-info {
+  padding-top:2rem;
+  padding-left:50px;
+  color: #FFFFFF;
+  font-size: 1.2rem;
+  line-height: 1rem;
+}
+
+.copyright-info {
+  padding-top:2rem;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
