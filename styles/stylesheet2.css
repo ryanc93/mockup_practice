@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  border: 32px solid #C0C0BE;
+  border: 32px solid #0000FF;
 }
 
 header {
@@ -57,102 +57,58 @@ section {
   margin: 1rem;
 }
 
-.story-title {
+.about-title {
   font-size: 2.5rem;
   font-weight:normal;
   padding-left:50px;
 }
 
-.story-blurb {
-  font-size: 1.6rem;
+.about-blurb {
+  font-size: 1rem;
   font-weight:normal;
   padding-left:50px;
   position:relative;top:-25px
 }
 
-.testimonial-title {
-  font-size: 2.5rem;
-  font-weight:normal;
+.cat-pic {
   padding-left:50px;
-}
-
-.testimonial-blurb {
-  font-size: 1.6rem;
-  font-weight:normal;
-  padding-left:50px;
-  position:relative;top:-25px
 }
 
 aside {
   padding: .5rem;
   margin: .5rem;
+  background-color: #000000;
 }
 
-.sidebox-with-cat-features {
-  border: 1px solid #000000;
+.lion-features {
+  border: 3px solid #EEE8AA;
   margin: auto;
   line-height: normal;
 }
 
-.cat-of-the-week {
+.lions {
   font-size: 1.5rem;
   font-weight:normal;
+  color: #BDB76B;
   text-align: center;
 }
 
-.cat-image-one {
+.lion-image-one {
   display: block;
   margin: 0 auto;
   position:relative;top:-30px
 }
 
-.cat-one-name {
-  font-size: 1.3rem;
-  font-weight:normal;
-  text-align: center;
-  position:relative;top:-50px
-}
-
-.cat-one-details {
-  font-size: 1rem;
-  position:relative;top:-70px
-}
-
-.cat-one-details-2 {
-  font-size: 1rem;
-  position:relative;top:-90px
-}
-
-.fan-favorite {
-  font-size: 1.5rem;
-  font-weight:normal;
-  text-align: center;
-  position:relative;top:-90px
-}
-
-.cat-image-two {
+.lion-image-two {
   display: block;
   margin: 0 auto;
-  position:relative;top:-120px
 }
 
-.cat-two-name{
+.lions-text{
   font-size: 1.3rem;
+  font-weight:normal;
+  color: #BDB76B;
   text-align: center;
-  position:relative;top:-140px
-}
-
-.top-link {
-color: red;
-font-size: 1.4rem;
-display: flex;
-justify-content: flex-end;
-padding: 1rem;
-}
-
-.action-link, .action-link-2 {
-  color: red;
-  font-size: .8rem;
 }
 
 .footer {
@@ -180,31 +136,3 @@ padding: 1rem;
   display: flex;
   justify-content: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
